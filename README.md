@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jr100O1
+- 👀 I’m interested in topics of mechatronics.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on any proyect.
